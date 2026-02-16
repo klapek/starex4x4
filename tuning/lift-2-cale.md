@@ -15,16 +15,16 @@ Standardowy tył w Starexie często "siada", zwłaszcza pod obciążeniem wypraw
 * **Na pusto:** Auto idzie w górę o **5 cm**.
 * **Z obciążeniem:** Przy stałej zabudowie (webasto, sprzęt, drabina, spanie), tył podniósł się o **3 cm**.
 
-![Tak wyglądał przed liftem - tył był niżej niż przód.](./img/lift/przedliftem.jpg)
+![Tak wyglądał przed liftem - tył był niżej niż przód.](../img/lift/przedliftem.jpg)
 *Foto 1: Stan przed modyfikacją.*
 
-![Tak wygląda po lifcie - przy stałym obciążeniu poszedł do góry o 3 cm.](./img/lift/polifcie.jpg)
+![Tak wygląda po lifcie - przy stałym obciążeniu poszedł do góry o 3 cm.](../img/lift/polifcie.jpg)
 *Foto 2: Efekt końcowy (załadowany).*
 
-![Widok z boku po lifcie](./img/lift/polifcie2.jpg)
+![Widok z boku po lifcie](../img/lift/polifcie2.jpg)
 *Foto 3: Postawa auta po zmianie sprężyn.*
 
-![OLDMANEMU 2898](./img/lift/oldmanemu.jpg)
+![OLDMANEMU 2898](../img/lift/oldmanemu.jpg)
 *Foto 4: Zastosowane sprężyny OME 2898.*
 
 ---
