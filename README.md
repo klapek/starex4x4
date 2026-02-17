@@ -11,7 +11,7 @@ Modyfikacje, tuning, mechanika, wyprawy, offroad - Hyundai H-1 Starex 4x4
 * **[Woda w kabinie? Naprawa odpływu klimatyzacji](./tuning/wyciek-klimatyzacji.md)**  
   *Prosty hack na suchą podłogę – brakująca gumowa rurka.*
 
-* **[Lift zawieszenia +2" (OME 2898)](./tuning/lift-2-cale.md)**
+* **[Lift zawieszenia +2" (OME 2898)](./tuning/lift-2-cale.md)**  
 *Zastosowanie sprężyn od Toyoty Land Cruiser J15. Idealne rozwiązanie Plug&Play dla dociążonego tyłu (zabudowa, sprzęt).*
 
 ---
