@@ -8,7 +8,7 @@ Archiwalne nagranie testu zderzeniowego (frontalnego) modelu Hyundai Starex. Mat
 
 ### Materiał Wideo:
 <video width="100%" controls>
-  <source src="/starex4x4/video/crash-test.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/klapek/starex4x4/main/video/crash-test.mp4" type="video/mp4">
   Twoja przeglądarka nie obsługuje odtwarzacza wideo.
 </video>
 

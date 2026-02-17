@@ -8,7 +8,7 @@ Szczegółowe zestawienie bezpieczników i przekaźników dla modelu Hyundai Sta
 
 ### Materiał Wideo:
 <video width="100%" controls>
-  <source src="/starex4x4/video/bezpieczniki.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/klapek/starex4x4/main/video/bezpieczniki.mp4" type="video/mp4">
   Twoja przeglądarka nie obsługuje odtwarzacza wideo.
 </video>
 
