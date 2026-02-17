@@ -7,11 +7,9 @@
 Szczegółowe zestawienie bezpieczników i przekaźników dla modelu Hyundai Starex / H1. Film pokazuje rozmieszczenie skrzynek w kabinie oraz pod maską.
 
 ## [PL] Materiał Wideo
-Kliknij w poniższy obrazek lub link, aby otworzyć film (otworzy się w nowym oknie):
+Poniżej znajduje się link do archiwalnego nagrania. GitHub posiada wbudowany odtwarzacz, który uruchomi się po kliknięciu:
 
-[![Odtwórz Film](https://img.shields.io/badge/ODTWÓRZ_FILM-KLIKNIJ_TUTAJ-red?style=for-the-badge&logo=youtube)](https://github.com/klapek/starex4x4/blob/main/video/bezpieczniki.mp4?raw=true)
-
-[👉 Otwórz plik wideo bezpośrednio](https://github.com/klapek/starex4x4/blob/main/video/bezpieczniki.mp4?raw=true)
+### 🎬 [ZOBACZ FILM: Bezpieczniki - Hyundai Starex](https://github.com/klapek/starex4x4/blob/main/video/bezpieczniki.mp4)
 
 **Źródło (Oryginał):** [YouTube - Fuse Box Info](https://www.youtube.com/watch?v=U4YxP4nG33o)
 
