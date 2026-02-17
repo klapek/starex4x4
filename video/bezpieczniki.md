@@ -7,7 +7,7 @@
 Szczegółowe zestawienie bezpieczników i przekaźników dla modelu Hyundai Starex / H1. Film pokazuje rozmieszczenie skrzynek w kabinie oraz pod maską.
 
 ## [PL] Materiał Wideo (Online) / [EN] Online Video Material
-*Póki film jest dostępny na YouTube, możesz go obejrzeć poniżej:*
+*Póki film jest dostępny na YouTube, możesz go obejrzeć poniżej:*  
 *As long as the video is available on YouTube, you can watch it below:*
 
 [![Obejrzyj na YouTube](https://img.youtube.com/vi/U4YxP4nG33o/0.jpg)](https://www.youtube.com/watch?v=U4YxP4nG33o)
