@@ -13,7 +13,6 @@ Modyfikacje, tuning, mechanika, wyprawy, offroad - Hyundai H-1 Starex 4x4
 
 
 ### [Lift zawieszenia +2" (OME 2898)](./tuning/lift-2-cale.md)
-<img src="./img/lift/oldmanemu.jpg" width="50" align="left" style="margin-right: 15px;">  
 *Zastosowanie sprężyn od Toyoty Land Cruiser J15. Idealne rozwiązanie Plug&Play dla dociążonego tyłu (zabudowa, sprzęt).*
 
 ---
