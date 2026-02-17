@@ -13,8 +13,6 @@ Kliknij w poniższy obrazek lub link, aby otworzyć film (otworzy się w nowym o
 
 [👉 Otwórz plik wideo bezpośrednio](https://github.com/klapek/starex4x4/blob/main/video/bezpieczniki.mp4?raw=true)
 
----
-
 **Źródło (Oryginał):** [YouTube - Fuse Box Info](https://www.youtube.com/watch?v=U4YxP4nG33o)
 
 ---
