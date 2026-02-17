@@ -10,11 +10,8 @@ Szczegółowe zestawienie bezpieczników i przekaźników dla modelu Hyundai Sta
 *Póki film jest dostępny na YouTube, możesz go obejrzeć poniżej:*
 *As long as the video is available on YouTube, you can watch it below:*
 
-<br>
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/U4YxP4nG33o" frameborder="0" allowfullscreen></iframe>
-
-<br>
+[![Obejrzyj na YouTube](https://img.youtube.com/vi/U4YxP4nG33o/0.jpg)](https://www.youtube.com/watch?v=U4YxP4nG33o)
+*Kliknij powyższy obrazek, aby otworzyć film na YouTube / Click the image above to watch on YouTube*
 
 ---
 
