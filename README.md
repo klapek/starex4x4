@@ -8,7 +8,7 @@ Modyfikacje, tuning, mechanika, wyprawy, offroad - Hyundai H-1 Starex 4x4
 
 ## 🛠️ [Mechanika & Tuning](https://github.com/klapek/starex4x4/tree/main/tuning)
 
-* **[Woda w kabinie? Naprawa odpływu klimatyzacji](./tuning/wyciek-klimatyzacji.md)**
+* **[Woda w kabinie? Naprawa odpływu klimatyzacji](./tuning/wyciek-klimatyzacji.md)**  
   *Prosty hack na suchą podłogę – brakująca gumowa rurka.*
 
 * **[Lift zawieszenia +2" (OME 2898)](./tuning/lift-2-cale.md)**
