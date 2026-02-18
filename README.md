@@ -18,6 +18,9 @@ Modyfikacje, tuning, mechanika, wyprawy, offroad - Hyundai H-1 Starex 4x4
 
 ## 🚐 [Wyprawy & Offroad](https://github.com/klapek/starex4x4/tree/main/wyprawy)
 
+* **[Zabudowa wyprawowa DIY (Wersja 1.1)](./wyprawa/zabudowa-diy-1.1.md)**  
+*Rozbudowa o system zasłonek by zwiększyć prywatność i komfort noclegów "na dziko"*
+
 * **[Zabudowa wyprawowa DIY (Wersja 1)](./wyprawa/zabudowa-diy.md)**  
 *Projekt krok po kroku zabudowy wyprawowej DIY. Spanie 160x200cm, konfiguracja 2+2 lub 2+1 z lodówką. Pełna dokumentacja foto i wymiary.*
 
