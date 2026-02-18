@@ -26,7 +26,7 @@ Installation of a secondary (leisure) 95Ah battery to power the fridge, lighting
 ## 📸 Dokumentacja Foto / Photo Documentation
 
 ![Podstawa aku](../img/2aku/2aku01.jpg)
-*PL: Podstawa metalowa za szynami 2. rzędu. Kabel sterujący idzie w szynie do schowka.*
+*PL: Podstawa metalowa za szynami 2. rzędu. Kabel sterujący idzie w szynie do schowka.*  
 *EN: Metal base behind 2nd-row rails. Control cable hidden inside the seat rail.*
 
 ![Akumulator](../img/2aku/2aku02.jpg)
