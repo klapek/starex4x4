@@ -43,5 +43,7 @@ The original routing of the external pipes was destroyed in Romania due to 31" t
 *EN: Original pipes destroyed by 31" tires during the Romania trip.* ![Naprawa](../img/webasto/webasto06.jpg)  
 ![Naprawa 2](../img/webasto/webasto07.jpg)  
 *PL: Poprawka: kolanka wzdłuż nadkola i wzmocniona rura zasysająca.*   
-*EN: The fix: elbows along the wheel arch and a reinforced intake pipe.* ---
+*EN: The fix: elbows along the wheel arch and a reinforced intake pipe.*
+
+ ---
 **Status:** Przetestowane w warunkach zimowych i offroadowych.
