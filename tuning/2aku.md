@@ -30,24 +30,24 @@ Installation of a secondary (leisure) 95Ah battery to power the fridge, lighting
 *EN: Metal base behind 2nd-row rails. Control cable hidden inside the seat rail.*
 
 ![Akumulator](../img/2aku/2aku02.jpg)
-*PL: Standardowy kapturek na akumulatorze 95Ah.*
+*PL: Standardowy kapturek na akumulatorze 95Ah.*  
 *EN: Standard terminal cover on the 95Ah battery.*
 
 ![Ergonomia 1](../img/2aku/2aku03.jpg)
 ![Ergonomia 2](../img/2aku/2aku04.jpg)
-*PL: Fotel mieści się nad akumulatorem nawet po maksymalnym rozłożeniu (tryb sypialny).*
+*PL: Fotel mieści się nad akumulatorem nawet po maksymalnym rozłożeniu (tryb sypialny).*  
 *EN: The seat easily clears the battery even when fully reclined (sleeping mode).*
 
 ![Separator](../img/2aku/2aku05.jpg)
-*PL: Separator przykręcony do obudowy schowka. Sterownik ukryty pod lewarkiem biegów.*
+*PL: Separator przykręcony do obudowy schowka. Sterownik ukryty pod lewarkiem biegów.*  
 *EN: Isolator attached to the storage housing. Controller hidden under the gear shifter.*
 
 ![Sterownik](../img/2aku/2aku06.jpg)
-*PL: Panel pokazuje stan naładowania obu akumulatorów.*
+*PL: Panel pokazuje stan naładowania obu akumulatorów.*  
 *EN: The display shows the voltage levels for both batteries.*
 
 ![Montaż panelu](../img/2aku/2aku07.jpg)
-*PL: Montaż na blaszce z rzepem samoprzylepnym – szybki demontaż w razie potrzeby.*
+*PL: Montaż na blaszce z rzepem samoprzylepnym – szybki demontaż w razie potrzeby.*  
 *EN: Mounted on a metal plate with Velcro – easy to remove if needed.*
 
 ---
