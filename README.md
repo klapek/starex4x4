@@ -21,6 +21,8 @@ Modyfikacje, tuning, mechanika, wyprawy, offroad - Hyundai H-1 Starex 4x4
 
 ## 🚐 [Wyprawy & Offroad](https://github.com/klapek/starex4x4/tree/main/wyprawy)
 
+* **[Ogrzewanie postojowe Planar 2kW](./wyprawa/webasto.md)** *Ciepło w zimie i wentylacja w lecie. Montaż w nadkolu i poprawka rur pod opony 31".* ```
+
 * **[Obrotowa lampa LED (Wnętrze/Kuchnia)](./wyprawa/lampa-led.md)**  
   *Sprytne oświetlenie na obrotowym uchwycie – doświetla środek auta lub kuchnię pod klapą.*  
 
