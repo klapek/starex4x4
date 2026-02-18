@@ -30,15 +30,15 @@ Universal lighting mounted at the rear of the cargo area. The lamp is attached t
 ## 📸 Dokumentacja Foto / Photo Documentation
 
 ![Widok w nocy](../img/lampa/lampa01.jpg)
-*PL: Zdjęcie wykonane w nocy bez zewnętrznego oświetlenia. Jak widać, moc jest wystarczająca.*
+*PL: Zdjęcie wykonane w nocy bez zewnętrznego oświetlenia. Jak widać, moc jest wystarczająca.*  
 *EN: Photo taken at night with no external light source. Plenty of power for any task.*
 
 ![Włącznik i zasilanie](../img/lampa/lampa02.jpg)
-*PL: Niezależny włącznik. Lampa nie rozładowuje akumulatora rozruchowego.*
+*PL: Niezależny włącznik. Lampa nie rozładowuje akumulatora rozruchowego.*  
 *EN: Independent switch. The light runs off the leisure battery, protecting the starter battery.*
 
 ![Produkt](../img/lampa/lampa03.jpg)
-*PL: Jeśli szukasz tego modelu, wpisz: **LAMPA 30 LED SMD obrotowa Paka Kabina**.*
+*PL: Jeśli szukasz tego modelu, wpisz: **LAMPA 30 LED SMD obrotowa Paka Kabina**.*  
 *EN: If you're looking for this specific model, search for: **LAMPA 30 LED SMD obrotowa Paka Kabina**.*
 
 ---
