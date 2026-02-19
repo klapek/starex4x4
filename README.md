@@ -52,6 +52,11 @@ Modyfikacje, tuning, mechanika, wyprawy, offroad - Hyundai H-1 Starex 4x4
 
 ---
 
+## 🔗 [Baza przydatnych linków](./dok/linki.md)
+*Wszystkie ważne miejsca w sieci: fora, kalkulatory, specyfikacje i narzędzia online w jednym miejscu.*  
+
+---
+
 ## 📺 Archiwum Wideo 
 *Lokalne kopie ważnych materiałów wideo:*
 
