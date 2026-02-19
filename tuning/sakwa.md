@@ -30,14 +30,32 @@ This mod perfectly fills the "step gap" that usually swallows small items during
 ## 📸 Dokumentacja Foto / Photo Documentation  
 
 ![Lokalizacja](../img/sakwa/sakwa01.jpg)  
-*PL: Widok ogólny. / EN: General view.* ![Demontaż](../img/sakwa/sakwa02.jpg)  
-*PL: Odkręcamy 3 śruby i podważamy boczek od dołu.* *EN: Remove 3 screws and pry the panel from the bottom.* ![Wiercenie](../img/sakwa/sakwa03.jpg)  
-*PL: Miejsce wiercenia – celuj kilka cm powyżej tego co na foto, przed przetłoczeniem.* *EN: Drilling points – aim a few cm higher than pictured, before the contour.* ![Odchylony boczek](../img/sakwa/sakwa04.jpg)  
-*PL: Można montować bez zdejmowania całego boczka.* *EN: Can be installed without removing the entire door panel.* ![Mocowanie sakwy](../img/sakwa/sakwa05.jpg)  
-*PL: Sposób przykręcenia sakwy do boczka.* *EN: Method of attaching the bag to the panel.* ![Widok od środka](../img/sakwa/sakwa06.jpg)  
-*PL: Podkładka z gumką i nakrętka (w kadrze paznokcie żony 😉).* *EN: Washer with rubber and a nut (plus wife's nails in the frame 😉).* ![Sakwa pusta](../img/sakwa/sakwa07.jpg)  
-*PL: Pusta sakwa (Auchan) – wymiarowo pasuje idealnie.* *EN: Empty bag (from Auchan) – fits the dimensions perfectly.* ![Sakwa pełna](../img/sakwa/sakwa08.jpg)  
-*PL: Sakwa z wypełnieniem (apteczka, klucze).* *EN: Bag filled with gear (first aid kit, tools).* ![Efekt końcowy](../img/sakwa/sakwa09.jpg)  
+*PL: Widok ogólny.*  
+*EN: General view.*  
+![Demontaż](../img/sakwa/sakwa02.jpg)  
+*PL: Odkręcamy 3 śruby i podważamy boczek od dołu.*   
+*EN: Remove 3 screws and pry the panel from the bottom.*  
+![Wiercenie](../img/sakwa/sakwa03.jpg)  
+*PL: Miejsce wiercenia – celuj kilka cm powyżej tego co na foto, przed przetłoczeniem.*   
+*EN: Drilling points – aim a few cm higher than pictured, before the contour.*   
+![Odchylony boczek](../img/sakwa/sakwa04.jpg)  
+*PL: Można montować bez zdejmowania całego boczka.*   
+*EN: Can be installed without removing the entire door panel.*  
+![Mocowanie sakwy](../img/sakwa/sakwa05.jpg)  
+*PL: Sposób przykręcenia sakwy do boczka.*   
+*EN: Method of attaching the bag to the panel.*  
+![Widok od środka](../img/sakwa/sakwa06.jpg)  
+*PL: Podkładka z gumką i nakrętka (w kadrze paznokcie żony 😉).*  
+*EN: Washer with rubber and a nut (plus wife's nails in the frame 😉).*  
+![Sakwa pusta](../img/sakwa/sakwa07.jpg)  
+*PL: Pusta sakwa (Auchan) – wymiarowo pasuje idealnie.*  
+*EN: Empty bag (from Auchan) – fits the dimensions perfectly.*   
+![Sakwa pełna](../img/sakwa/sakwa08.jpg)  
+*PL: Sakwa z wypełnieniem (apteczka, klucze).*  
+*EN: Bag filled with gear (first aid kit, tools).*  
+![Efekt końcowy](../img/sakwa/sakwa09.jpg)  
 ![Dopasowanie](../img/sakwa/sakwa10.jpg)  
-*PL: Idealnie zapełnia otwór przy schodkach.* *EN: Perfectly fills the gap by the steps.* ---
+*PL: Idealnie zapełnia otwór przy schodkach.*  
+*EN: Perfectly fills the gap by the steps.*  
+ ---
 **Status:** Przetestowane. Nic już nie wpada pod nogi przy wsiadaniu!
