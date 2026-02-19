@@ -29,7 +29,7 @@ This mod perfectly fills the "step gap" that usually swallows small items during
 
 ## 📸 Dokumentacja Foto / Photo Documentation  
 
-![Lokalizacja](../img/sakwa/sakwa01.jpg)  
+![Lokalizacja](../img/sakwa/sakwa01.jpg) 
 *PL: Widok ogólny.*  
 *EN: General view.*  
 ![Demontaż](../img/sakwa/sakwa02.jpg)  
