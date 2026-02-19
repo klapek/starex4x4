@@ -27,6 +27,9 @@ Modyfikacje, tuning, mechanika, wyprawy, offroad - Hyundai H-1 Starex 4x4
 
 ## 🚐 [Wyprawy & Offroad](https://github.com/klapek/starex4x4/tree/main/wyprawy)
 
+* **[Dodatkowy zbiornik paliwa (60L)](./wyprawa/2bak.md)**   
+*Zwiększenie zasięgu: montaż baku z Fiata Doblo II w miejsce koła zapasowego + osłona alu.* 
+
 * **[Ogrzewanie postojowe Planar 2kW](./wyprawa/webasto.md)**   
 *Ciepło w zimie i wentylacja w lecie. Montaż w nadkolu i poprawka rur pod opony 31".* 
 
