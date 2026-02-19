@@ -32,9 +32,9 @@ The fitment is almost perfect, except for the front section. The front chassis f
 
 ![Widok ogólny](../img/oslona/kol01.jpg)  
 *PL: Tak wygląda po założeniu – kawał solidnej blachy.*  
-*EN: Installed view – a very solid piece of steel.* !
+*EN: Installed view – a very solid piece of steel.* 
 
-[Opakowanie](../img/oslona/kol02.jpg)  
+![Opakowanie](../img/oslona/kol02.jpg)  
 *PL: Przychodzi bardzo dobrze zapakowane i zabezpieczone.*   
 *EN: Very well packaged and protected during transport.* 
 
