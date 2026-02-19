@@ -8,6 +8,9 @@ Modyfikacje, tuning, mechanika, wyprawy, offroad - Hyundai H-1 Starex 4x4
 
 ## 🛠️ [Mechanika & Tuning](https://github.com/klapek/starex4x4/tree/main/tuning)
 
+* **[Stalowa osłona silnika Kolchuga](./tuning/oslona.md)**  
+ *Pancerna ochrona miski olejowej (ZiPoFlex) z uwagami dotyczącymi montażu w Starexie.*  
+
 * **[Sakwy w przednich drzwiach (organizery)](./tuning/sakwa.md)**  
 *Tani i skuteczny sposób na zagospodarowanie wnęki stopnia przy przednich drzwiach.*  
 
