@@ -41,7 +41,16 @@ Modyfikacje, tuning, mechanika, wyprawy, offroad - Hyundai H-1 Starex 4x4
 
 ---
 
-## 📺 Archiwum Wideo
+## 📁 Dokumentacja & Bezpieczeństwo 
+
+* **[Karta Ratunkowa Hyundai H1 / Starex - wersja zmodyfikowana (PDF)](./dok/karta_ratunkowa_h1.pdf)** *Schemat dla służb ratowniczych: rozmieszczenie akumulatorów, zbiornika paliwa, napinaczy pasów i poduszek powietrznych. Zawiera następujące modyfikacje: 2 akumulator, 2 bak paliwa, hebel pod maską. Wydrukuj i umieść za osłoną przeciwsłoneczną kierowcy!*
+
+
+* **[Karta Ratunkowa Hyundai H1 / Starex - wersja fabryczna (PDF)](./dok/karta_ratunkowa_h1.pdf)** *Schemat dla służb ratowniczych: rozmieszczenie akumulatorów, zbiornika paliwa, napinaczy pasów i poduszek powietrznych. Wydrukuj i umieść za osłoną przeciwsłoneczną kierowcy!*
+
+---
+
+## 📺 Archiwum Wideo 
 *Lokalne kopie ważnych materiałów wideo:*
 
 * **[Bezpieczniki: Lokalizacja i Opis](./video/bezpieczniki.md)**
