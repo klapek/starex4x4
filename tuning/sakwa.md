@@ -65,5 +65,6 @@ This mod perfectly fills the "step gap" that usually swallows small items during
 ![Dopasowanie](../img/sakwa/sakwa10.jpg)  
 *PL: Idealnie zapełnia otwór przy schodkach.*  
 *EN: Perfectly fills the gap by the steps.*  
+
  ---
 **Status:** Przetestowane. Nic już nie wpada pod nogi przy wsiadaniu!
