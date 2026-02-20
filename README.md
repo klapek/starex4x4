@@ -33,6 +33,9 @@ Modyfikacje, tuning, mechanika, wyprawy, offroad - Hyundai H-1 Starex 4x4
 
 ## 🚐 [Wyprawy & Offroad](https://github.com/klapek/starex4x4/tree/main/wyprawy)
 
+* **[Namiot na tylną klapę (System Flexline)](./wyprawa/namiot-klapa.md)**  
+*Modyfikacja namiotu Reimo: montaż na elastycznej szynie, magnesy i zintegrowana torba.* 
+
 * **[Dodatkowy zbiornik paliwa (60L)](./wyprawa/2bak.md)**   
 *Zwiększenie zasięgu: montaż baku z Fiata Doblo II w miejsce koła zapasowego + osłona alu.* 
 
