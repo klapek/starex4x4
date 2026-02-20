@@ -8,6 +8,9 @@ Modyfikacje, tuning, mechanika, wyprawy, offroad - Hyundai H-1 Starex 4x4
 
 ## 🛠️ [Mechanika & Tuning](https://github.com/klapek/starex4x4/tree/main/tuning)
 
+* **[Komputer pokładowy TurboGauge (OBD)](./tuning/turbogauge.md)**  
+ *Monitoring parametrów silnika na żywo: temperatura wody, ładowanie, obroty i inne.* 
+
 * **[Stalowa osłona silnika Kolchuga](./tuning/oslona.md)**  
  *Pancerna ochrona miski olejowej (ZiPoFlex) z uwagami dotyczącymi montażu w Starexie.*  
 
