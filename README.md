@@ -8,6 +8,9 @@ Modyfikacje, tuning, mechanika, wyprawy, offroad - Hyundai H-1 Starex 4x4
 
 ## 🛠️ [Mechanika & Tuning](https://github.com/klapek/starex4x4/tree/main/tuning)
 
+* **[Remont blacharski i walka z rdzą](./tuning/ruda.md)**  
+ *Fotorelacja z 1,5-rocznej odbudowy podwozia, progów (pod Hi-Lift) i nadkoli.*
+
 * **[Opony 31" - Montaż i modyfikacje nadkoli](./tuning/31.md)**   
 *Jak zmieścić 31x10.5R15: fotorelacja z cięcia zderzaka i progów oraz pomiary wysokości.*
 
