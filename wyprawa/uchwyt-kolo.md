@@ -8,8 +8,8 @@ Solidny stelaż na tylną klapę umożliwiający przewożenie koła zapasowego (
 
 ### Kluczowe elementy:  
 * **Amortyzatory:** Ze względu na ogromny ciężar, konieczna była wymiana siłowników na wzmocnione (HAHN nr 244961.5).  
-  * Tryb dzienny: 1500N (stelaż + koło).  
-  * Tryb wyprawowy: 1800N (koło + walizka + szpej).  
+  * Tryb dzienny - zestaw nr 1: 1500N (stelaż + koło).  
+  * Tryb wyprawowy - zestaw nr 2: 1800N (koło + walizka + szpej).  
 * **Mocowanie:** Górna część stelaża przykręcona do oryginalnych zawiasów klapy (wzmocnienie od wewnątrz).  
 * **Stabilizacja:** Koło osadzone na piaście z dwiema dodatkowymi szpilkami stabilizującymi (dedykowane pod oryginalne felgi aluminiowe).  
 * **Akcesoria:** Specjalna walizka turystyczna z aluminiowym rantem (szczelna) oraz pokrowiec wewnątrz felgi na taśmę kinetyczną.  
@@ -21,8 +21,8 @@ Heavy-duty tailgate rack for carrying a spare tire (31") and additional gear. Th
 
 ### Key Components:  
 * **Gas Struts:** Due to the heavy load, the original struts were replaced with reinforced HAHN units (No. 244961.5).  
-  * Daily mode: 1500N (rack + tire).  
-  * Expedition mode: 1800N (tire + suitcase + extra gear).  
+  * Daily mode - set 1: 1500N (rack + tire).  
+  * Expedition mode - set 2: 1800N (tire + suitcase + extra gear).  
 * **Mounting:** The upper rack mounts are bolted directly to the original tailgate hinges (reinforced from the inside).  
 * **Stabilization:** The tire is mounted on a hub with two extra alignment pins (specifically designed for factory alloy wheels).  
 * **Accessories:** A weatherproof travel suitcase with an aluminum rim and a custom-made bag inside the rim for a kinetic recovery rope.  
