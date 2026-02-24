@@ -34,7 +34,7 @@ Modyfikacje, tuning, mechanika, wyprawy, offroad - Hyundai H-1 Starex 4x4
 
 ---
 
-## ⛰️ [Wyprawy & Offroad](https://github.com/klapek/starex4x4/tree/main/wyprawy)
+## 🗺️ [Wyprawy & Offroad](https://github.com/klapek/starex4x4/tree/main/wyprawy)
 
 * **[Uchwyt koła zapasowego i akcesoriów na klapę](./wyprawa/uchwyt-kolo.md)**   
 *Stelaż na koło 31" i walizkę: montaż do zawiasów oraz dobór wzmocnionych amortyzatorów HAHN.*
