@@ -8,6 +8,9 @@ Modyfikacje, tuning, mechanika, wyprawy, offroad - Hyundai H-1 Starex 4x4
 
 ## 🛠️ [Mechanika & Tuning](https://github.com/klapek/starex4x4/tree/main/tuning)
 
+* **[Wygłuszenie podłogi (Bitmat)](./tuning/wygluszenie.md)**   
+*Wyciszenie wnętrza matami butylowymi i pianką kauczukową – krok po kroku.*
+
 * **[Remont blacharski i walka z rdzą](./tuning/ruda.md)**  
  *Fotorelacja z 1,5-rocznej odbudowy podwozia, progów (pod Hi-Lift) i nadkoli.*
 
